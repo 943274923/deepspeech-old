@@ -108,8 +108,8 @@ Directories in the script need to be configured.
 
 Intersted in helping out? Reach out to [info@tarteel.io](mailto:info@tarteel.io)!
 
-[`generate_alphabet`]: generate_alphabet.py
-[`generate_vocabulary]: generate_vocaulary.py
+[`generate_alphabet.py`]: generate_alphabet.py
+[`generate_vocabulary.py`]: generate_vocaulary.py
 [`train_deepspeech.sh`]: train_deepspeech.sh
 [`generate_csv.py`]: generate_csv.py
 [`generate_split.py`]: generate_split.py
