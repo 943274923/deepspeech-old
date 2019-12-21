@@ -1,7 +1,7 @@
 import os
 from os import path
 
-from ..util import quran
+from util import quran
 
 alphabet_path = path.join(path.dirname(os.getcwd()), 'data/tarteel/vocabulary.txt')
 

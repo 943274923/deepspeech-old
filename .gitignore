@@ -2,6 +2,8 @@
 *.pyc
 *.swp
 *.DS_Store
+*.csv
+data/tarteel/recordings/
 .pit*
 /.run
 /werlog.js
